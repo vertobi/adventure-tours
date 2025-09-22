@@ -26,7 +26,7 @@ plugins:
 title: Adventure Tours
 email: tobiasverheijen@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  YELLOW. Providing adventure tours for outdoor enthusiast tourists.
+  Providing adventure tours for outdoor enthusiast tourists.
 url: "https://vertobi.github.io/adventure-tours/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: vertobi
 
