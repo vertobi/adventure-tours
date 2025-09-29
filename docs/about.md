@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Adventure Tours - About
 permalink: /about/
 ---
